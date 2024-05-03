@@ -1,0 +1,9 @@
+.cell {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    cursor: pointer;
+}
+.lit {
+    background-color: yellow;
+}
